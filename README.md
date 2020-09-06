@@ -1,5 +1,5 @@
-# Data-Structures-Problems
-Implementation of commonly used  datastructures and their application in problem solving
+# Snake Game
+Implementation of famous snake game using Javascript P5 library
 
 My Profile Links
 
